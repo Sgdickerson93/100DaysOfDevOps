@@ -27,7 +27,7 @@ sudo useradd -s /sbin/nologin <username>
 ### Verify User Addition
 
 ```
-Id mariyam
+id mariyam
 ```
 Response:
 
